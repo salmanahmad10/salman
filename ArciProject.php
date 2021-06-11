@@ -103,7 +103,7 @@
                 <h1>
                    The ARCI-Project accronym for ARtificial Commerical Inteligence that consists <br>
                     of a smart CRM Application that provides rich contextual information <br>
-                    about contacts. Made using React, Nodejs, and python <br>
+                    about subjects. Made using React, Nodejs, and python <br>
                 </h1>
 
                
@@ -123,7 +123,7 @@
 
     <section style="text-align: center;" id='about' class="s-about">
 
-        <p >Below are some screenshot for better visualizaition</p> 
+        <p >Below are some screenshots for better visualizaition</p> 
         <img src="images/arci/arci1.jpg" width="60%" alt="" class="">
         <br>
         <img src="images/arci/arci2.jpg" width="60%" alt="" class="">
