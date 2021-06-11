@@ -125,7 +125,7 @@
 
             <div class="home-content__line"></div>
 
-        </div> <!-- end home-content -->
+        </div> 
 
 
         <ul class="home-social">
