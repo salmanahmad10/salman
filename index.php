@@ -46,7 +46,7 @@
 
         <div class="header-logo">
             <a class="site-logo" href="index.php">
-                Salman Ahmad portfolio
+               My Portfolio
             </a>
         </div>
 
