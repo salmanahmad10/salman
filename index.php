@@ -167,7 +167,7 @@
                 
             
             <div class="col-block stats__col">
-                <div class="stats__count">9999</div>
+                <div class="stats__count">500</div>
                 <h5>Cups of Coffee</h5>
             </div>
             <div class="col-block stats__col">
@@ -427,7 +427,7 @@
     <!-- footer
     ================================================== -->
     <footer>
-        Site created by Salman Ahamd
+        Site created by Salman Ahmad
     </footer>
 
     <!-- photoswipe background
