@@ -104,7 +104,7 @@
 
                 <h1>
                     A Result driven and  <br>
-                    Harworking person who <br>
+                    Harworking developer who <br>
                     commits everyting for a  <br>
                     good website.
                 </h1>
