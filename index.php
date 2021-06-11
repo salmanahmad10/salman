@@ -202,7 +202,7 @@
                 </div>
                 <div class="service-text">
                     <h3 class="h2">Frontend Development</h3>
-                    <p> My creative side where i shine. Satisfying clients with responsiveness and cutting edge design. Practiced and perfected my self with React and other frameworks to create a product that client truly deserves.
+                    <p> My creative side where I shine. Satisfying clients with website responsiveness and cutting edge design. Practiced and perfected my self with React and other frameworks to create a product that client truly deserves.
                     </p>
                 </div>
             </div>
