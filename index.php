@@ -104,7 +104,7 @@
 
                 <h1>
                     A Result driven and  <br>
-                    Harworking developer who <br>
+                    hardworking developer who <br>
                     commits everyting for a  <br>
                     good experience.
                 </h1>
