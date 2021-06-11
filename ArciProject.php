@@ -43,7 +43,7 @@
 
         <div class="header-logo">
             <a class="site-logo" href="index.php">
-                Salman Ahmad
+                My projects
             </a>
         </div>
 
