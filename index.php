@@ -133,7 +133,7 @@
                 <a href="https://www.githum.com/salmanahmad10/"><i class="fa fa-github" aria-hidden="true"></i><span>Github</span></a>
             </li>
             <li>
-                <a href=https://www.linkedin.com/in/salmanahmadd//"><i class="fa fa-linkedin" aria-hidden="true"></i><span>Linkedin</span></a>
+                <a href="https://www.linkedin.com/in/salmanahmadd/"><i class="fa fa-linkedin" aria-hidden="true"></i><span>Linkedin</span></a>
             </li>
             <li>
                 <a href="https://www.twitter.com/salmanahmad_10/"><i class="fa fa-twitter" aria-hidden="true"></i><span>Twitter</span></a>
