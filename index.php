@@ -67,13 +67,13 @@
     
                 <ul class="header-nav__social">
                     <li>
-                        <a href="https://www.facebook.com/SMask10/"><i class="fa fa-facebook"></i></a>
+                        <a href="https://www.github.com/salmanahmad10/"><i class="fa fa-github"></i></a>
+                    </li>
+                    <li>
+                        <a href="https://www.linkedin.com/in/salmanahmadd/"><i class="fa fa-linkedin"></i></a>
                     </li>
                     <li>
                         <a href="https://www.twitter.com/salmanahmad_10"><i class="fa fa-twitter"></i></a>
-                    </li>
-                    <li>
-                        <a href="https://www.Instagram.com/salmanahmad.10"><i class="fa fa-instagram"></i></a>
                     </li>
                 </ul>
 
@@ -130,13 +130,13 @@
 
         <ul class="home-social">
             <li>
-                <a href="https://www.facebook.com/SMask10/"><i class="fa fa-facebook" aria-hidden="true"></i><span>Facebook</span></a>
+                <a href="https://www.githum.com/salmanahmad10/"><i class="fa fa-github" aria-hidden="true"></i><span>Github</span></a>
             </li>
             <li>
-                <a href="https://www.twitter.com/salmanahmad_10/"><i class="fa fa-twitter" aria-hidden="true"></i><span>Twiiter</span></a>
+                <a href=https://www.linkedin.com/in/salmanahmadd//"><i class="fa fa-linkedin" aria-hidden="true"></i><span>Linkedin</span></a>
             </li>
             <li>
-                <a href="https://www.Instagram.com/salmanahmad.10/"><i class="fa fa-instagram" aria-hidden="true"></i><span>Instagram</span></a>
+                <a href="https://www.twitter.com/salmanahmad_10/"><i class="fa fa-twitter" aria-hidden="true"></i><span>Twitter</span></a>
             </li>
         </ul> 
         <!-- end home-social -->
